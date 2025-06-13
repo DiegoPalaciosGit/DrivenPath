@@ -38,8 +38,8 @@ The main theoretical notions for the chapter along with resources for self-paced
 #### Description
 Big data refers to extremely large and diverse collections of structured, unstructured, and semi-structured data that continues to grow exponentially over time. These datasets are so huge and complex in volume, velocity, and variety, that traditional data management systems cannot store, process, and analyze them.
 #### References
-[Google Cloud Platform - What is Big Data?](https://cloud.google.com/learn/what-is-big-data?hl=en)\ ✅  
-[Oracle - What Is Big Data?](https://www.oracle.com/uk/big-data/what-is-big-data/)\
+[Google Cloud Platform - What is Big Data?](https://cloud.google.com/learn/what-is-big-data?hl=en) ✅  
+[Oracle - What Is Big Data?](https://www.oracle.com/uk/big-data/what-is-big-data/) ✅  
 [TechTarget - What is big data?](https://www.techtarget.com/searchdatamanagement/definition/big-data)
 
 ### Data Engineer
