@@ -40,7 +40,7 @@ Big data refers to extremely large and diverse collections of structured, unstru
 #### References
 [Google Cloud Platform - What is Big Data?](https://cloud.google.com/learn/what-is-big-data?hl=en) ✅  
 [Oracle - What Is Big Data?](https://www.oracle.com/uk/big-data/what-is-big-data/) ✅  
-[TechTarget - What is big data?](https://www.techtarget.com/searchdatamanagement/definition/big-data)
+[TechTarget - What is big data?](https://www.techtarget.com/searchdatamanagement/definition/big-data) ✅  
 
 ### Data Engineer
 #### Description
