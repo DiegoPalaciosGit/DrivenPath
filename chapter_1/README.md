@@ -46,7 +46,7 @@ Big data refers to extremely large and diverse collections of structured, unstru
 #### Description
 A data engineer integrates, transforms, and consolidates data from various structured and unstructured data systems into structures that are suitable for building analytics solutions. The data engineer also helps design and support data pipelines and data stores that are high-performing, efficient, organized, and reliable, given a specific set of business requirements and constraints.
 #### References
-[MongoDB - Data Engineering Explained](https://www.mongodb.com/resources/basics/data-engineering#:~:text=Data%20engineering%20is%20the%20discipline,draw%20valuable%20insights%20from%20it.)\
+[MongoDB - Data Engineering Explained](https://www.mongodb.com/resources/basics/data-engineering#:~:text=Data%20engineering%20is%20the%20discipline,draw%20valuable%20insights%20from%20it.) ✅  
 [dremio - Introduction to Data Engineering](https://www.dremio.com/resources/guides/intro-data-engineering/)\
 [Redpanda - Data engineering 101](https://www.redpanda.com/guides/fundamentals-of-data-engineering)
 
